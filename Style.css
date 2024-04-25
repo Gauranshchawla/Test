@@ -108,8 +108,6 @@ nav{
 
 @media screen and (max-width: 1260px){
     .sub-hero-content{
-        background-color: rgba(213,187,41,280);
-        color: white;
         width: 40%;
         border-radius: 0px 10px 10px 0px;
         padding: 5px;
@@ -118,8 +116,6 @@ nav{
 
 @media screen and (max-width: 1000px){
     .sub-hero-content{
-        background-color: rgba(213,187,41,280);
-        color: white;
         width: 50%;
         border-radius: 0px 10px 10px 0px;
     }
@@ -136,8 +132,6 @@ nav{
 
 @media screen and (max-width: 680px){
     .sub-hero-content{
-        background-color: rgba(213,187,41,280);
-        color: white;
         width: 70%;
         border-radius: 0px 10px 10px 0px;
     }
@@ -155,8 +149,6 @@ nav{
 
 @media screen and (max-width: 455px){
     .sub-hero-content{
-        background-color: rgba(213,187,41,280);
-        color: white;
         width: 90%;
         border-radius: 0px 10px 10px 0px;
     }
